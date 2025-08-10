@@ -1,0 +1,1 @@
+This is the uploads folder where you put images to be processed, as well as the final, processed image with the detected emotion added to the bottom.
